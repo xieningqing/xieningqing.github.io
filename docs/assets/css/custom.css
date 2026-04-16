@@ -71,17 +71,31 @@ body {
 
 .navbar {
   background: #fff !important;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.03);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.05);
 }
 
 .navbar .navbar-item {
-  color: #374151;
-  font-weight: 500;
+  color: #1f2937 !important;
+  font-weight: 600;
+  font-size: 15px;
+  padding: 12px 18px;
+  transition: all 0.2s ease;
 }
 
 .navbar .navbar-item:hover {
-  color: #0ea5e9;
+  color: #0ea5e9 !important;
+  background: #f8fafc;
+}
+
+.navbar .active {
+  color: #0ea5e9 !important;
+  border-bottom: 3px solid #0ea5e9;
+  background: #f0f9ff;
+}
+
+body.docs:not(.cover) .navbar {
+  background: linear-gradient(90deg, #ffffff, #f8fafc) !important;
 }
 
 .navbar .active {
