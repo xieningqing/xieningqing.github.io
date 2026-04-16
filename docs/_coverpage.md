@@ -108,7 +108,7 @@
         <span class="cover-tag">🤖 AI工程实践</span>
         <span class="cover-tag">📚 持续更新中</span>
       </div>
-      <a class="cover-enter-btn" href="/README.md">
+      <a class="cover-enter-btn" href="#/README">
         👉 进入博客
       </a>
       <div class="cover-footer">Made with ❤️ by 逸夕</div>
