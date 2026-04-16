@@ -1,12 +1,54 @@
-![logo](_media/logo.png)
+# 👋 关于我
 
-# 小傅哥
+你好，我是逸夕，一名专注于 **Java 后端开发 + AI 工程实践** 的技术初学者。
 
-## 教程序员快速搭建博客
+目前主要关注：
 
-- 本仓库以基于 docsify 构建的所见即所得博客，程序员👨🏻‍💻伙伴可以通过克隆仓库，配置基础的信息就可以拥有一个这样的博客了！
-    
-[![stars](https://badgen.net/github/stars/fuzhengwei/fuzhengwei.github.io?icon=github&color=4ab8a1)](https://github.com/fuzhengwei/fuzhengwei.github.io) [![forks](https://badgen.net/github/forks/fuzhengwei/fuzhengwei.github.io?icon=github&color=4ab8a1)](https://github.com/fuzhengwei/fuzhengwei.github.io) 
+- 后端开发
+- AI 工程落地（RAG / Agent ）
 
-[GitHub](<https://github.com/fuzhengwei/fuzhengwei.github.io>)
-[开始阅读](README.md)
+这个博客主要用于记录我的技术成长与思考，同时沉淀一套可复用的知识体系。
+
+---
+
+# 🚀 博客内容方向
+
+## 📌 AI相关内容
+
+- 人工智能相关学习路线
+
+---
+
+## 📌 相关高频面试八股
+
+- Spring
+- JUC
+- JVM
+- JavaSE
+- Redis
+- Mysql
+- MQ
+- 大模型
+  - Agent
+  - RAG
+
+
+---
+
+# 🧠 为什么写这个博客？
+
+- 📚 梳理知识体系，而不是零散学习  
+- 🔁 将“会用”提升为“理解底层原理”  
+- 🎯 为技术面试做系统化准备  
+- 🛠️ 沉淀真实项目经验，而不是纸上谈兵  
+
+---
+
+# ✍️ 更新节奏
+
+- 每周至少 2 篇技术文章  
+- 持续补充面试高频题与项目解析  
+- 不定期更新 AI 工程实践总结  
+
+---
+
