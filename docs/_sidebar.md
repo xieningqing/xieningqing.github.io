@@ -1,8 +1,7 @@
 - 🏠 首页
   * [首页](README.md)
 - 📝 个人博客
-  * [博客首页](blog/README.md)
-  * [IDEA插件开发](blog/idea-plugin/README.md)
+  * [算法](blog/md/算法.md)
 - 🧠 面试八股
   * [总览](interview/README.md)
   * [Java基础](interview/java/collection.md)

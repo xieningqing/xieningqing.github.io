@@ -17,4 +17,6 @@
 
 [ 🔍大模型应用开发实战一：RAG 技术全栈指南](https://github.com/datawhalechina/all-in-rag)
 
+[RAG 进化之路：传统 RAG 到工具与强化学习双轮驱动的 Agentic RAG](https://yuanchaofa.com/post/from-native-rag-to-agentic-rag)
+
 ## 📌 持续更新中...
